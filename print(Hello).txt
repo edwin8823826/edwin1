@@ -1,1 +1,2 @@
 print("Hello")
+print("吳典曄到此一遊")
